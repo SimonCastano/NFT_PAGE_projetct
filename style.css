@@ -49,7 +49,7 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 800;
-    font-size: 80px;
+    font-size: 4vw;
     line-height: 137%;
     /* or 80px */
     color: #0E0331;
@@ -60,7 +60,7 @@
     font-family: 'Poppins';
     font-style: normal;
     font-weight: 800;
-    font-size: 80px;
+    font-size: 4vw;
     line-height: 137%;
     margin: 2px;
 
@@ -71,9 +71,8 @@
 .sub_title3 {
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 500;
-    font-size: 43.088px;
-    line-height: 137%;
+    font-weight: bold;
+    font-size: 6vh;
     /* identical to box height, or 59px */
 
 
